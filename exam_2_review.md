@@ -3,11 +3,25 @@ Exam 2 Study Guide
 
 ## Logistics
 
-Exam 2 will take place in person on Monday, December 4 from 6-7:40pm. It will be 8-12 questions in length. You may be asked to define terminology, trace code, explain code, and write code. 
+Exam 2 will take place in person on Monday, December 4 from 6-7:40pm. It will be 8-14 questions in length. 
+
+There will be no part 1/part 2 as the first exam. Like with exam 1 part 2, you will be permitted to use any resources except Chat GPT, your classmates, and any other friends you would contact via text, email, or other messaging app. This means you are free to use the Python interpreter, any notes you have, and any other online resources except those mentioned above. You may not, however, copy any part of your answer from any of these resources. Any resources used (e.g., a StackOverflow post) must be cited.
+
+## Question Format
+
+Here is some general guidance about the kinds of questions to expect:
+
+- Several questions will ask you to write methods or functions.
+- You may be required to raise exceptions, instantiate objects, and call methods on objects.
+- You may be required to build dictionaries, iterate over dictionaries, add data to dictionaries, or access data stored in dictionaries.
+- You may be required to work with multi-dimensional lists. It is advised that you review your image project to make sure you can implement algorithms that operate on matrices.
+- You may be required to use or modify the `Stack` implementation we discussed in class. You should be familiar with all of the code we have discussed in class.
+- You may be required to determine the running time (in Big-Oh notation) of a bit of code or an algorithm.
+- You may be required to design a data structure similar to what you did for Project 5. You may be required to describe the running time of various operations on the data structure you design.
 
 ## Topics
 
-The exam may cover any topics we have discussed this semester. It is recommended that you review the Exam 1 study guide as well.
+The exam may cover any topics we have discussed this semester. It is recommended that you review the Exam 1 study guide as well. Topics include but are not limited to the following:
 
 * Recursion
   - Given a recursive function, describe what it does
